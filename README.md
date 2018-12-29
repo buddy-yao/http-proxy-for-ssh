@@ -3,7 +3,7 @@ ssh proxy via http connect
 
 # usage:
 ## command usage
-    `http-proxy-for-ssh <proxyhost> <proxyport> <dsthost> <dstport> [authfile]`
+`http-proxy-for-ssh <proxyhost> <proxyport> <dsthost> <dstport> [authfile]`
 
 ## ssh proxy usage
 edit your ~/.ssh/config
